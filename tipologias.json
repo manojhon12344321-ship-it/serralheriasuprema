@@ -1,0 +1,5226 @@
+[
+  {
+    "id": "TYP-0001",
+    "codigo": "POR-BAS-001",
+    "nome": "Basculante Portões - Modelo 01",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0002",
+    "codigo": "POR-BAS-002",
+    "nome": "Basculante Portões - Modelo 02",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0003",
+    "codigo": "POR-BAS-003",
+    "nome": "Basculante Portões - Modelo 03",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0004",
+    "codigo": "POR-BAS-004",
+    "nome": "Basculante Portões - Modelo 04",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0005",
+    "codigo": "POR-BAS-005",
+    "nome": "Basculante Portões - Modelo 05",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0006",
+    "codigo": "POR-BAS-006",
+    "nome": "Basculante Portões - Modelo 06",
+    "categoria": "Portões",
+    "subcategoria": "Basculante",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0007",
+    "codigo": "POR-DES-007",
+    "nome": "Deslizante Portões - Modelo 07",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0008",
+    "codigo": "POR-DES-008",
+    "nome": "Deslizante Portões - Modelo 08",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0009",
+    "codigo": "POR-DES-009",
+    "nome": "Deslizante Portões - Modelo 09",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0010",
+    "codigo": "POR-DES-010",
+    "nome": "Deslizante Portões - Modelo 10",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0011",
+    "codigo": "POR-DES-011",
+    "nome": "Deslizante Portões - Modelo 11",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0012",
+    "codigo": "POR-DES-012",
+    "nome": "Deslizante Portões - Modelo 12",
+    "categoria": "Portões",
+    "subcategoria": "Deslizante",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "deslizante"
+    ]
+  },
+  {
+    "id": "TYP-0013",
+    "codigo": "POR-PIV-013",
+    "nome": "Pivotante Portões - Modelo 13",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0014",
+    "codigo": "POR-PIV-014",
+    "nome": "Pivotante Portões - Modelo 14",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0015",
+    "codigo": "POR-PIV-015",
+    "nome": "Pivotante Portões - Modelo 15",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0016",
+    "codigo": "POR-PIV-016",
+    "nome": "Pivotante Portões - Modelo 16",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0017",
+    "codigo": "POR-PIV-017",
+    "nome": "Pivotante Portões - Modelo 17",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0018",
+    "codigo": "POR-PIV-018",
+    "nome": "Pivotante Portões - Modelo 18",
+    "categoria": "Portões",
+    "subcategoria": "Pivotante",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "pivotante"
+    ]
+  },
+  {
+    "id": "TYP-0019",
+    "codigo": "POR-DE -019",
+    "nome": "De Correr Portões - Modelo 19",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0020",
+    "codigo": "POR-DE -020",
+    "nome": "De Correr Portões - Modelo 20",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0021",
+    "codigo": "POR-DE -021",
+    "nome": "De Correr Portões - Modelo 21",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0022",
+    "codigo": "POR-DE -022",
+    "nome": "De Correr Portões - Modelo 22",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0023",
+    "codigo": "POR-DE -023",
+    "nome": "De Correr Portões - Modelo 23",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0024",
+    "codigo": "POR-DE -024",
+    "nome": "De Correr Portões - Modelo 24",
+    "categoria": "Portões",
+    "subcategoria": "De Correr",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0025",
+    "codigo": "POR-SOC-025",
+    "nome": "Social Portões - Modelo 25",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0026",
+    "codigo": "POR-SOC-026",
+    "nome": "Social Portões - Modelo 26",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0027",
+    "codigo": "POR-SOC-027",
+    "nome": "Social Portões - Modelo 27",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0028",
+    "codigo": "POR-SOC-028",
+    "nome": "Social Portões - Modelo 28",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0029",
+    "codigo": "POR-SOC-029",
+    "nome": "Social Portões - Modelo 29",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0030",
+    "codigo": "POR-SOC-030",
+    "nome": "Social Portões - Modelo 30",
+    "categoria": "Portões",
+    "subcategoria": "Social",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0031",
+    "codigo": "POR-GAR-031",
+    "nome": "Garagem Portões - Modelo 31",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0032",
+    "codigo": "POR-GAR-032",
+    "nome": "Garagem Portões - Modelo 32",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0033",
+    "codigo": "POR-GAR-033",
+    "nome": "Garagem Portões - Modelo 33",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0034",
+    "codigo": "POR-GAR-034",
+    "nome": "Garagem Portões - Modelo 34",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0035",
+    "codigo": "POR-GAR-035",
+    "nome": "Garagem Portões - Modelo 35",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0036",
+    "codigo": "POR-GAR-036",
+    "nome": "Garagem Portões - Modelo 36",
+    "categoria": "Portões",
+    "subcategoria": "Garagem",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "garagem"
+    ]
+  },
+  {
+    "id": "TYP-0037",
+    "codigo": "POR-IND-037",
+    "nome": "Industrial Portões - Modelo 37",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0038",
+    "codigo": "POR-IND-038",
+    "nome": "Industrial Portões - Modelo 38",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0039",
+    "codigo": "POR-IND-039",
+    "nome": "Industrial Portões - Modelo 39",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0040",
+    "codigo": "POR-IND-040",
+    "nome": "Industrial Portões - Modelo 40",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0041",
+    "codigo": "POR-IND-041",
+    "nome": "Industrial Portões - Modelo 41",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0042",
+    "codigo": "POR-IND-042",
+    "nome": "Industrial Portões - Modelo 42",
+    "categoria": "Portões",
+    "subcategoria": "Industrial",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portões",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0043",
+    "codigo": "GRA-RES-043",
+    "nome": "Residencial Grades - Modelo 43",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0044",
+    "codigo": "GRA-RES-044",
+    "nome": "Residencial Grades - Modelo 44",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0045",
+    "codigo": "GRA-RES-045",
+    "nome": "Residencial Grades - Modelo 45",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0046",
+    "codigo": "GRA-RES-046",
+    "nome": "Residencial Grades - Modelo 46",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0047",
+    "codigo": "GRA-RES-047",
+    "nome": "Residencial Grades - Modelo 47",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0048",
+    "codigo": "GRA-RES-048",
+    "nome": "Residencial Grades - Modelo 48",
+    "categoria": "Grades",
+    "subcategoria": "Residencial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "residencial"
+    ]
+  },
+  {
+    "id": "TYP-0049",
+    "codigo": "GRA-IND-049",
+    "nome": "Industrial Grades - Modelo 49",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0050",
+    "codigo": "GRA-IND-050",
+    "nome": "Industrial Grades - Modelo 50",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0051",
+    "codigo": "GRA-IND-051",
+    "nome": "Industrial Grades - Modelo 51",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0052",
+    "codigo": "GRA-IND-052",
+    "nome": "Industrial Grades - Modelo 52",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0053",
+    "codigo": "GRA-IND-053",
+    "nome": "Industrial Grades - Modelo 53",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0054",
+    "codigo": "GRA-IND-054",
+    "nome": "Industrial Grades - Modelo 54",
+    "categoria": "Grades",
+    "subcategoria": "Industrial",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0055",
+    "codigo": "GRA-CON-055",
+    "nome": "Condominial Grades - Modelo 55",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0056",
+    "codigo": "GRA-CON-056",
+    "nome": "Condominial Grades - Modelo 56",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0057",
+    "codigo": "GRA-CON-057",
+    "nome": "Condominial Grades - Modelo 57",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0058",
+    "codigo": "GRA-CON-058",
+    "nome": "Condominial Grades - Modelo 58",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0059",
+    "codigo": "GRA-CON-059",
+    "nome": "Condominial Grades - Modelo 59",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0060",
+    "codigo": "GRA-CON-060",
+    "nome": "Condominial Grades - Modelo 60",
+    "categoria": "Grades",
+    "subcategoria": "Condominial",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "condominial"
+    ]
+  },
+  {
+    "id": "TYP-0061",
+    "codigo": "GRA-JAN-061",
+    "nome": "Janela Grades - Modelo 61",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0062",
+    "codigo": "GRA-JAN-062",
+    "nome": "Janela Grades - Modelo 62",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0063",
+    "codigo": "GRA-JAN-063",
+    "nome": "Janela Grades - Modelo 63",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0064",
+    "codigo": "GRA-JAN-064",
+    "nome": "Janela Grades - Modelo 64",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0065",
+    "codigo": "GRA-JAN-065",
+    "nome": "Janela Grades - Modelo 65",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0066",
+    "codigo": "GRA-JAN-066",
+    "nome": "Janela Grades - Modelo 66",
+    "categoria": "Grades",
+    "subcategoria": "Janela",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "janela"
+    ]
+  },
+  {
+    "id": "TYP-0067",
+    "codigo": "GRA-MUR-067",
+    "nome": "Muro Grades - Modelo 67",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0068",
+    "codigo": "GRA-MUR-068",
+    "nome": "Muro Grades - Modelo 68",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0069",
+    "codigo": "GRA-MUR-069",
+    "nome": "Muro Grades - Modelo 69",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0070",
+    "codigo": "GRA-MUR-070",
+    "nome": "Muro Grades - Modelo 70",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0071",
+    "codigo": "GRA-MUR-071",
+    "nome": "Muro Grades - Modelo 71",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0072",
+    "codigo": "GRA-MUR-072",
+    "nome": "Muro Grades - Modelo 72",
+    "categoria": "Grades",
+    "subcategoria": "Muro",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "muro"
+    ]
+  },
+  {
+    "id": "TYP-0073",
+    "codigo": "GRA-SEG-073",
+    "nome": "Segurança Grades - Modelo 73",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0074",
+    "codigo": "GRA-SEG-074",
+    "nome": "Segurança Grades - Modelo 74",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0075",
+    "codigo": "GRA-SEG-075",
+    "nome": "Segurança Grades - Modelo 75",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0076",
+    "codigo": "GRA-SEG-076",
+    "nome": "Segurança Grades - Modelo 76",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0077",
+    "codigo": "GRA-SEG-077",
+    "nome": "Segurança Grades - Modelo 77",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0078",
+    "codigo": "GRA-SEG-078",
+    "nome": "Segurança Grades - Modelo 78",
+    "categoria": "Grades",
+    "subcategoria": "Segurança",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "grades",
+      "segurança"
+    ]
+  },
+  {
+    "id": "TYP-0079",
+    "codigo": "POR-DE -079",
+    "nome": "De Giro Portas - Modelo 79",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0080",
+    "codigo": "POR-DE -080",
+    "nome": "De Giro Portas - Modelo 80",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0081",
+    "codigo": "POR-DE -081",
+    "nome": "De Giro Portas - Modelo 81",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0082",
+    "codigo": "POR-DE -082",
+    "nome": "De Giro Portas - Modelo 82",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0083",
+    "codigo": "POR-DE -083",
+    "nome": "De Giro Portas - Modelo 83",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0084",
+    "codigo": "POR-DE -084",
+    "nome": "De Giro Portas - Modelo 84",
+    "categoria": "Portas",
+    "subcategoria": "De Giro",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "de giro"
+    ]
+  },
+  {
+    "id": "TYP-0085",
+    "codigo": "POR-DE -085",
+    "nome": "De Correr Portas - Modelo 85",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0086",
+    "codigo": "POR-DE -086",
+    "nome": "De Correr Portas - Modelo 86",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0087",
+    "codigo": "POR-DE -087",
+    "nome": "De Correr Portas - Modelo 87",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0088",
+    "codigo": "POR-DE -088",
+    "nome": "De Correr Portas - Modelo 88",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0089",
+    "codigo": "POR-DE -089",
+    "nome": "De Correr Portas - Modelo 89",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0090",
+    "codigo": "POR-DE -090",
+    "nome": "De Correr Portas - Modelo 90",
+    "categoria": "Portas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0091",
+    "codigo": "POR-CAM-091",
+    "nome": "Camarão Portas - Modelo 91",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0092",
+    "codigo": "POR-CAM-092",
+    "nome": "Camarão Portas - Modelo 92",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0093",
+    "codigo": "POR-CAM-093",
+    "nome": "Camarão Portas - Modelo 93",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0094",
+    "codigo": "POR-CAM-094",
+    "nome": "Camarão Portas - Modelo 94",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0095",
+    "codigo": "POR-CAM-095",
+    "nome": "Camarão Portas - Modelo 95",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0096",
+    "codigo": "POR-CAM-096",
+    "nome": "Camarão Portas - Modelo 96",
+    "categoria": "Portas",
+    "subcategoria": "Camarão",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "camarão"
+    ]
+  },
+  {
+    "id": "TYP-0097",
+    "codigo": "POR-COR-097",
+    "nome": "Corta-Fogo Portas - Modelo 97",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0098",
+    "codigo": "POR-COR-098",
+    "nome": "Corta-Fogo Portas - Modelo 98",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0099",
+    "codigo": "POR-COR-099",
+    "nome": "Corta-Fogo Portas - Modelo 99",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0100",
+    "codigo": "POR-COR-100",
+    "nome": "Corta-Fogo Portas - Modelo 100",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0101",
+    "codigo": "POR-COR-101",
+    "nome": "Corta-Fogo Portas - Modelo 101",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0102",
+    "codigo": "POR-COR-102",
+    "nome": "Corta-Fogo Portas - Modelo 102",
+    "categoria": "Portas",
+    "subcategoria": "Corta-Fogo",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "corta-fogo"
+    ]
+  },
+  {
+    "id": "TYP-0103",
+    "codigo": "POR-IND-103",
+    "nome": "Industrial Portas - Modelo 103",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0104",
+    "codigo": "POR-IND-104",
+    "nome": "Industrial Portas - Modelo 104",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0105",
+    "codigo": "POR-IND-105",
+    "nome": "Industrial Portas - Modelo 105",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0106",
+    "codigo": "POR-IND-106",
+    "nome": "Industrial Portas - Modelo 106",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0107",
+    "codigo": "POR-IND-107",
+    "nome": "Industrial Portas - Modelo 107",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0108",
+    "codigo": "POR-IND-108",
+    "nome": "Industrial Portas - Modelo 108",
+    "categoria": "Portas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "portas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0109",
+    "codigo": "POR-SOC-109",
+    "nome": "Social Portas - Modelo 109",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0110",
+    "codigo": "POR-SOC-110",
+    "nome": "Social Portas - Modelo 110",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0111",
+    "codigo": "POR-SOC-111",
+    "nome": "Social Portas - Modelo 111",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0112",
+    "codigo": "POR-SOC-112",
+    "nome": "Social Portas - Modelo 112",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0113",
+    "codigo": "POR-SOC-113",
+    "nome": "Social Portas - Modelo 113",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0114",
+    "codigo": "POR-SOC-114",
+    "nome": "Social Portas - Modelo 114",
+    "categoria": "Portas",
+    "subcategoria": "Social",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "portas",
+      "social"
+    ]
+  },
+  {
+    "id": "TYP-0115",
+    "codigo": "JAN-DE -115",
+    "nome": "De Correr Janelas - Modelo 115",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0116",
+    "codigo": "JAN-DE -116",
+    "nome": "De Correr Janelas - Modelo 116",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0117",
+    "codigo": "JAN-DE -117",
+    "nome": "De Correr Janelas - Modelo 117",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0118",
+    "codigo": "JAN-DE -118",
+    "nome": "De Correr Janelas - Modelo 118",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0119",
+    "codigo": "JAN-DE -119",
+    "nome": "De Correr Janelas - Modelo 119",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0120",
+    "codigo": "JAN-DE -120",
+    "nome": "De Correr Janelas - Modelo 120",
+    "categoria": "Janelas",
+    "subcategoria": "De Correr",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "de correr"
+    ]
+  },
+  {
+    "id": "TYP-0121",
+    "codigo": "JAN-MAX-121",
+    "nome": "Maxim-Ar Janelas - Modelo 121",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0122",
+    "codigo": "JAN-MAX-122",
+    "nome": "Maxim-Ar Janelas - Modelo 122",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0123",
+    "codigo": "JAN-MAX-123",
+    "nome": "Maxim-Ar Janelas - Modelo 123",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0124",
+    "codigo": "JAN-MAX-124",
+    "nome": "Maxim-Ar Janelas - Modelo 124",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0125",
+    "codigo": "JAN-MAX-125",
+    "nome": "Maxim-Ar Janelas - Modelo 125",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0126",
+    "codigo": "JAN-MAX-126",
+    "nome": "Maxim-Ar Janelas - Modelo 126",
+    "categoria": "Janelas",
+    "subcategoria": "Maxim-Ar",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "maxim-ar"
+    ]
+  },
+  {
+    "id": "TYP-0127",
+    "codigo": "JAN-BAS-127",
+    "nome": "Basculante Janelas - Modelo 127",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0128",
+    "codigo": "JAN-BAS-128",
+    "nome": "Basculante Janelas - Modelo 128",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0129",
+    "codigo": "JAN-BAS-129",
+    "nome": "Basculante Janelas - Modelo 129",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0130",
+    "codigo": "JAN-BAS-130",
+    "nome": "Basculante Janelas - Modelo 130",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0131",
+    "codigo": "JAN-BAS-131",
+    "nome": "Basculante Janelas - Modelo 131",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0132",
+    "codigo": "JAN-BAS-132",
+    "nome": "Basculante Janelas - Modelo 132",
+    "categoria": "Janelas",
+    "subcategoria": "Basculante",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "basculante"
+    ]
+  },
+  {
+    "id": "TYP-0133",
+    "codigo": "JAN-VEN-133",
+    "nome": "Veneziana Janelas - Modelo 133",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0134",
+    "codigo": "JAN-VEN-134",
+    "nome": "Veneziana Janelas - Modelo 134",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0135",
+    "codigo": "JAN-VEN-135",
+    "nome": "Veneziana Janelas - Modelo 135",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0136",
+    "codigo": "JAN-VEN-136",
+    "nome": "Veneziana Janelas - Modelo 136",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0137",
+    "codigo": "JAN-VEN-137",
+    "nome": "Veneziana Janelas - Modelo 137",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0138",
+    "codigo": "JAN-VEN-138",
+    "nome": "Veneziana Janelas - Modelo 138",
+    "categoria": "Janelas",
+    "subcategoria": "Veneziana",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "veneziana"
+    ]
+  },
+  {
+    "id": "TYP-0139",
+    "codigo": "JAN-GUI-139",
+    "nome": "Guilhotina Janelas - Modelo 139",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0140",
+    "codigo": "JAN-GUI-140",
+    "nome": "Guilhotina Janelas - Modelo 140",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0141",
+    "codigo": "JAN-GUI-141",
+    "nome": "Guilhotina Janelas - Modelo 141",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0142",
+    "codigo": "JAN-GUI-142",
+    "nome": "Guilhotina Janelas - Modelo 142",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0143",
+    "codigo": "JAN-GUI-143",
+    "nome": "Guilhotina Janelas - Modelo 143",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0144",
+    "codigo": "JAN-GUI-144",
+    "nome": "Guilhotina Janelas - Modelo 144",
+    "categoria": "Janelas",
+    "subcategoria": "Guilhotina",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "guilhotina"
+    ]
+  },
+  {
+    "id": "TYP-0145",
+    "codigo": "JAN-FIX-145",
+    "nome": "Fixa Janelas - Modelo 145",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0146",
+    "codigo": "JAN-FIX-146",
+    "nome": "Fixa Janelas - Modelo 146",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0147",
+    "codigo": "JAN-FIX-147",
+    "nome": "Fixa Janelas - Modelo 147",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0148",
+    "codigo": "JAN-FIX-148",
+    "nome": "Fixa Janelas - Modelo 148",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0149",
+    "codigo": "JAN-FIX-149",
+    "nome": "Fixa Janelas - Modelo 149",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0150",
+    "codigo": "JAN-FIX-150",
+    "nome": "Fixa Janelas - Modelo 150",
+    "categoria": "Janelas",
+    "subcategoria": "Fixa",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "janelas",
+      "fixa"
+    ]
+  },
+  {
+    "id": "TYP-0151",
+    "codigo": "COR-RET-151",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 151",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0152",
+    "codigo": "COR-RET-152",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 152",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0153",
+    "codigo": "COR-RET-153",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 153",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0154",
+    "codigo": "COR-RET-154",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 154",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0155",
+    "codigo": "COR-RET-155",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 155",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0156",
+    "codigo": "COR-RET-156",
+    "nome": "Reto Corrimãos e Guarda-Corpos - Modelo 156",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Reto",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "reto"
+    ]
+  },
+  {
+    "id": "TYP-0157",
+    "codigo": "COR-CUR-157",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 157",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0158",
+    "codigo": "COR-CUR-158",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 158",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0159",
+    "codigo": "COR-CUR-159",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 159",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0160",
+    "codigo": "COR-CUR-160",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 160",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0161",
+    "codigo": "COR-CUR-161",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 161",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0162",
+    "codigo": "COR-CUR-162",
+    "nome": "Curvo Corrimãos e Guarda-Corpos - Modelo 162",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Curvo",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "curvo"
+    ]
+  },
+  {
+    "id": "TYP-0163",
+    "codigo": "COR-IND-163",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 163",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0164",
+    "codigo": "COR-IND-164",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 164",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0165",
+    "codigo": "COR-IND-165",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 165",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0166",
+    "codigo": "COR-IND-166",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 166",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0167",
+    "codigo": "COR-IND-167",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 167",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0168",
+    "codigo": "COR-IND-168",
+    "nome": "Industrial Corrimãos e Guarda-Corpos - Modelo 168",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0169",
+    "codigo": "COR-MIN-169",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 169",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0170",
+    "codigo": "COR-MIN-170",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 170",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0171",
+    "codigo": "COR-MIN-171",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 171",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0172",
+    "codigo": "COR-MIN-172",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 172",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0173",
+    "codigo": "COR-MIN-173",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 173",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0174",
+    "codigo": "COR-MIN-174",
+    "nome": "Minimalista Corrimãos e Guarda-Corpos - Modelo 174",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Minimalista",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "minimalista"
+    ]
+  },
+  {
+    "id": "TYP-0175",
+    "codigo": "COR-COM-175",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 175",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0176",
+    "codigo": "COR-COM-176",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 176",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0177",
+    "codigo": "COR-COM-177",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 177",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0178",
+    "codigo": "COR-COM-178",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 178",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0179",
+    "codigo": "COR-COM-179",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 179",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0180",
+    "codigo": "COR-COM-180",
+    "nome": "Com Vidro Corrimãos e Guarda-Corpos - Modelo 180",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Com Vidro",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "com vidro"
+    ]
+  },
+  {
+    "id": "TYP-0181",
+    "codigo": "COR-ESC-181",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 181",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0182",
+    "codigo": "COR-ESC-182",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 182",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0183",
+    "codigo": "COR-ESC-183",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 183",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0184",
+    "codigo": "COR-ESC-184",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 184",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0185",
+    "codigo": "COR-ESC-185",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 185",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0186",
+    "codigo": "COR-ESC-186",
+    "nome": "Escada Caracol Corrimãos e Guarda-Corpos - Modelo 186",
+    "categoria": "Corrimãos e Guarda-Corpos",
+    "subcategoria": "Escada Caracol",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "corrimãos e guarda-corpos",
+      "escada caracol"
+    ]
+  },
+  {
+    "id": "TYP-0187",
+    "codigo": "EST-COB-187",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 187",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0188",
+    "codigo": "EST-COB-188",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 188",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0189",
+    "codigo": "EST-COB-189",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 189",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0190",
+    "codigo": "EST-COB-190",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 190",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0191",
+    "codigo": "EST-COB-191",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 191",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0192",
+    "codigo": "EST-COB-192",
+    "nome": "Cobertura Estruturas Metálicas - Modelo 192",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Cobertura",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "cobertura"
+    ]
+  },
+  {
+    "id": "TYP-0193",
+    "codigo": "EST-MEZ-193",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 193",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0194",
+    "codigo": "EST-MEZ-194",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 194",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0195",
+    "codigo": "EST-MEZ-195",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 195",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0196",
+    "codigo": "EST-MEZ-196",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 196",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0197",
+    "codigo": "EST-MEZ-197",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 197",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0198",
+    "codigo": "EST-MEZ-198",
+    "nome": "Mezanino Estruturas Metálicas - Modelo 198",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Mezanino",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "mezanino"
+    ]
+  },
+  {
+    "id": "TYP-0199",
+    "codigo": "EST-GAL-199",
+    "nome": "Galpão Estruturas Metálicas - Modelo 199",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0200",
+    "codigo": "EST-GAL-200",
+    "nome": "Galpão Estruturas Metálicas - Modelo 200",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0201",
+    "codigo": "EST-GAL-201",
+    "nome": "Galpão Estruturas Metálicas - Modelo 201",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0202",
+    "codigo": "EST-GAL-202",
+    "nome": "Galpão Estruturas Metálicas - Modelo 202",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0203",
+    "codigo": "EST-GAL-203",
+    "nome": "Galpão Estruturas Metálicas - Modelo 203",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0204",
+    "codigo": "EST-GAL-204",
+    "nome": "Galpão Estruturas Metálicas - Modelo 204",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Galpão",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "galpão"
+    ]
+  },
+  {
+    "id": "TYP-0205",
+    "codigo": "EST-PER-205",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 205",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0206",
+    "codigo": "EST-PER-206",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 206",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0207",
+    "codigo": "EST-PER-207",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 207",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0208",
+    "codigo": "EST-PER-208",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 208",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0209",
+    "codigo": "EST-PER-209",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 209",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0210",
+    "codigo": "EST-PER-210",
+    "nome": "Pergolado Estruturas Metálicas - Modelo 210",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Pergolado",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "pergolado"
+    ]
+  },
+  {
+    "id": "TYP-0211",
+    "codigo": "EST-CAR-211",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 211",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0212",
+    "codigo": "EST-CAR-212",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 212",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0213",
+    "codigo": "EST-CAR-213",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 213",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0214",
+    "codigo": "EST-CAR-214",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 214",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0215",
+    "codigo": "EST-CAR-215",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 215",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0216",
+    "codigo": "EST-CAR-216",
+    "nome": "Caramanchão Estruturas Metálicas - Modelo 216",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Caramanchão",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "caramanchão"
+    ]
+  },
+  {
+    "id": "TYP-0217",
+    "codigo": "EST-TOR-217",
+    "nome": "Torre Estruturas Metálicas - Modelo 217",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0218",
+    "codigo": "EST-TOR-218",
+    "nome": "Torre Estruturas Metálicas - Modelo 218",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0219",
+    "codigo": "EST-TOR-219",
+    "nome": "Torre Estruturas Metálicas - Modelo 219",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0220",
+    "codigo": "EST-TOR-220",
+    "nome": "Torre Estruturas Metálicas - Modelo 220",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0221",
+    "codigo": "EST-TOR-221",
+    "nome": "Torre Estruturas Metálicas - Modelo 221",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0222",
+    "codigo": "EST-TOR-222",
+    "nome": "Torre Estruturas Metálicas - Modelo 222",
+    "categoria": "Estruturas Metálicas",
+    "subcategoria": "Torre",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "estruturas metálicas",
+      "torre"
+    ]
+  },
+  {
+    "id": "TYP-0223",
+    "codigo": "ESC-RET-223",
+    "nome": "Reta Escadas - Modelo 223",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0224",
+    "codigo": "ESC-RET-224",
+    "nome": "Reta Escadas - Modelo 224",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0225",
+    "codigo": "ESC-RET-225",
+    "nome": "Reta Escadas - Modelo 225",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0226",
+    "codigo": "ESC-RET-226",
+    "nome": "Reta Escadas - Modelo 226",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0227",
+    "codigo": "ESC-RET-227",
+    "nome": "Reta Escadas - Modelo 227",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0228",
+    "codigo": "ESC-RET-228",
+    "nome": "Reta Escadas - Modelo 228",
+    "categoria": "Escadas",
+    "subcategoria": "Reta",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "reta"
+    ]
+  },
+  {
+    "id": "TYP-0229",
+    "codigo": "ESC-CAR-229",
+    "nome": "Caracol Escadas - Modelo 229",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0230",
+    "codigo": "ESC-CAR-230",
+    "nome": "Caracol Escadas - Modelo 230",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0231",
+    "codigo": "ESC-CAR-231",
+    "nome": "Caracol Escadas - Modelo 231",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0232",
+    "codigo": "ESC-CAR-232",
+    "nome": "Caracol Escadas - Modelo 232",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0233",
+    "codigo": "ESC-CAR-233",
+    "nome": "Caracol Escadas - Modelo 233",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0234",
+    "codigo": "ESC-CAR-234",
+    "nome": "Caracol Escadas - Modelo 234",
+    "categoria": "Escadas",
+    "subcategoria": "Caracol",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "caracol"
+    ]
+  },
+  {
+    "id": "TYP-0235",
+    "codigo": "ESC-L-235",
+    "nome": "L Escadas - Modelo 235",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0236",
+    "codigo": "ESC-L-236",
+    "nome": "L Escadas - Modelo 236",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0237",
+    "codigo": "ESC-L-237",
+    "nome": "L Escadas - Modelo 237",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0238",
+    "codigo": "ESC-L-238",
+    "nome": "L Escadas - Modelo 238",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0239",
+    "codigo": "ESC-L-239",
+    "nome": "L Escadas - Modelo 239",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0240",
+    "codigo": "ESC-L-240",
+    "nome": "L Escadas - Modelo 240",
+    "categoria": "Escadas",
+    "subcategoria": "L",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "l"
+    ]
+  },
+  {
+    "id": "TYP-0241",
+    "codigo": "ESC-U-241",
+    "nome": "U Escadas - Modelo 241",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0242",
+    "codigo": "ESC-U-242",
+    "nome": "U Escadas - Modelo 242",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0243",
+    "codigo": "ESC-U-243",
+    "nome": "U Escadas - Modelo 243",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0244",
+    "codigo": "ESC-U-244",
+    "nome": "U Escadas - Modelo 244",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0245",
+    "codigo": "ESC-U-245",
+    "nome": "U Escadas - Modelo 245",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0246",
+    "codigo": "ESC-U-246",
+    "nome": "U Escadas - Modelo 246",
+    "categoria": "Escadas",
+    "subcategoria": "U",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "u"
+    ]
+  },
+  {
+    "id": "TYP-0247",
+    "codigo": "ESC-MAR-247",
+    "nome": "Marinheiro Escadas - Modelo 247",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0248",
+    "codigo": "ESC-MAR-248",
+    "nome": "Marinheiro Escadas - Modelo 248",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0249",
+    "codigo": "ESC-MAR-249",
+    "nome": "Marinheiro Escadas - Modelo 249",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0250",
+    "codigo": "ESC-MAR-250",
+    "nome": "Marinheiro Escadas - Modelo 250",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0251",
+    "codigo": "ESC-MAR-251",
+    "nome": "Marinheiro Escadas - Modelo 251",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0252",
+    "codigo": "ESC-MAR-252",
+    "nome": "Marinheiro Escadas - Modelo 252",
+    "categoria": "Escadas",
+    "subcategoria": "Marinheiro",
+    "aplicacao": "Comercial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "escadas",
+      "marinheiro"
+    ]
+  },
+  {
+    "id": "TYP-0253",
+    "codigo": "ESC-IND-253",
+    "nome": "Industrial Escadas - Modelo 253",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0254",
+    "codigo": "ESC-IND-254",
+    "nome": "Industrial Escadas - Modelo 254",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0255",
+    "codigo": "ESC-IND-255",
+    "nome": "Industrial Escadas - Modelo 255",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0256",
+    "codigo": "ESC-IND-256",
+    "nome": "Industrial Escadas - Modelo 256",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0257",
+    "codigo": "ESC-IND-257",
+    "nome": "Industrial Escadas - Modelo 257",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0258",
+    "codigo": "ESC-IND-258",
+    "nome": "Industrial Escadas - Modelo 258",
+    "categoria": "Escadas",
+    "subcategoria": "Industrial",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "escadas",
+      "industrial"
+    ]
+  },
+  {
+    "id": "TYP-0259",
+    "codigo": "MOB-BAN-259",
+    "nome": "Bancos Mobiliário Metálico - Modelo 259",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0260",
+    "codigo": "MOB-BAN-260",
+    "nome": "Bancos Mobiliário Metálico - Modelo 260",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Condomínio",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0261",
+    "codigo": "MOB-BAN-261",
+    "nome": "Bancos Mobiliário Metálico - Modelo 261",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0262",
+    "codigo": "MOB-BAN-262",
+    "nome": "Bancos Mobiliário Metálico - Modelo 262",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0263",
+    "codigo": "MOB-BAN-263",
+    "nome": "Bancos Mobiliário Metálico - Modelo 263",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0264",
+    "codigo": "MOB-BAN-264",
+    "nome": "Bancos Mobiliário Metálico - Modelo 264",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bancos",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "bancos"
+    ]
+  },
+  {
+    "id": "TYP-0265",
+    "codigo": "MOB-MES-265",
+    "nome": "Mesas Mobiliário Metálico - Modelo 265",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0266",
+    "codigo": "MOB-MES-266",
+    "nome": "Mesas Mobiliário Metálico - Modelo 266",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0267",
+    "codigo": "MOB-MES-267",
+    "nome": "Mesas Mobiliário Metálico - Modelo 267",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0268",
+    "codigo": "MOB-MES-268",
+    "nome": "Mesas Mobiliário Metálico - Modelo 268",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0269",
+    "codigo": "MOB-MES-269",
+    "nome": "Mesas Mobiliário Metálico - Modelo 269",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0270",
+    "codigo": "MOB-MES-270",
+    "nome": "Mesas Mobiliário Metálico - Modelo 270",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Mesas",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "mesas"
+    ]
+  },
+  {
+    "id": "TYP-0271",
+    "codigo": "MOB-BIC-271",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 271",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Rural",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0272",
+    "codigo": "MOB-BIC-272",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 272",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0273",
+    "codigo": "MOB-BIC-273",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 273",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0274",
+    "codigo": "MOB-BIC-274",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 274",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0275",
+    "codigo": "MOB-BIC-275",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 275",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0276",
+    "codigo": "MOB-BIC-276",
+    "nome": "Bicicletário Mobiliário Metálico - Modelo 276",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Bicicletário",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "bicicletário"
+    ]
+  },
+  {
+    "id": "TYP-0277",
+    "codigo": "MOB-LIX-277",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 277",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0278",
+    "codigo": "MOB-LIX-278",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 278",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0279",
+    "codigo": "MOB-LIX-279",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 279",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0280",
+    "codigo": "MOB-LIX-280",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 280",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0281",
+    "codigo": "MOB-LIX-281",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 281",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0282",
+    "codigo": "MOB-LIX-282",
+    "nome": "Lixeira Mobiliário Metálico - Modelo 282",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Lixeira",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "lixeira"
+    ]
+  },
+  {
+    "id": "TYP-0283",
+    "codigo": "MOB-PER-283",
+    "nome": "Pergola Mobiliário Metálico - Modelo 283",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0284",
+    "codigo": "MOB-PER-284",
+    "nome": "Pergola Mobiliário Metálico - Modelo 284",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0285",
+    "codigo": "MOB-PER-285",
+    "nome": "Pergola Mobiliário Metálico - Modelo 285",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0286",
+    "codigo": "MOB-PER-286",
+    "nome": "Pergola Mobiliário Metálico - Modelo 286",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0287",
+    "codigo": "MOB-PER-287",
+    "nome": "Pergola Mobiliário Metálico - Modelo 287",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Industrial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0288",
+    "codigo": "MOB-PER-288",
+    "nome": "Pergola Mobiliário Metálico - Modelo 288",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Pergola",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "pergola"
+    ]
+  },
+  {
+    "id": "TYP-0289",
+    "codigo": "MOB-BAL-289",
+    "nome": "Balanço Mobiliário Metálico - Modelo 289",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Condomínio",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0290",
+    "codigo": "MOB-BAL-290",
+    "nome": "Balanço Mobiliário Metálico - Modelo 290",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0291",
+    "codigo": "MOB-BAL-291",
+    "nome": "Balanço Mobiliário Metálico - Modelo 291",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0292",
+    "codigo": "MOB-BAL-292",
+    "nome": "Balanço Mobiliário Metálico - Modelo 292",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0293",
+    "codigo": "MOB-BAL-293",
+    "nome": "Balanço Mobiliário Metálico - Modelo 293",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0294",
+    "codigo": "MOB-BAL-294",
+    "nome": "Balanço Mobiliário Metálico - Modelo 294",
+    "categoria": "Mobiliário Metálico",
+    "subcategoria": "Balanço",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "mobiliário metálico",
+      "balanço"
+    ]
+  },
+  {
+    "id": "TYP-0295",
+    "codigo": "ESQ-FAC-295",
+    "nome": "Fachada Esquadrias Especiais - Modelo 295",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0296",
+    "codigo": "ESQ-FAC-296",
+    "nome": "Fachada Esquadrias Especiais - Modelo 296",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Residencial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0297",
+    "codigo": "ESQ-FAC-297",
+    "nome": "Fachada Esquadrias Especiais - Modelo 297",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0298",
+    "codigo": "ESQ-FAC-298",
+    "nome": "Fachada Esquadrias Especiais - Modelo 298",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0299",
+    "codigo": "ESQ-FAC-299",
+    "nome": "Fachada Esquadrias Especiais - Modelo 299",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Industrial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0300",
+    "codigo": "ESQ-FAC-300",
+    "nome": "Fachada Esquadrias Especiais - Modelo 300",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Fachada",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "fachada"
+    ]
+  },
+  {
+    "id": "TYP-0301",
+    "codigo": "ESQ-BRI-301",
+    "nome": "Brise Esquadrias Especiais - Modelo 301",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0302",
+    "codigo": "ESQ-BRI-302",
+    "nome": "Brise Esquadrias Especiais - Modelo 302",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Rural",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0303",
+    "codigo": "ESQ-BRI-303",
+    "nome": "Brise Esquadrias Especiais - Modelo 303",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0304",
+    "codigo": "ESQ-BRI-304",
+    "nome": "Brise Esquadrias Especiais - Modelo 304",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0305",
+    "codigo": "ESQ-BRI-305",
+    "nome": "Brise Esquadrias Especiais - Modelo 305",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0306",
+    "codigo": "ESQ-BRI-306",
+    "nome": "Brise Esquadrias Especiais - Modelo 306",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Brise",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "brise"
+    ]
+  },
+  {
+    "id": "TYP-0307",
+    "codigo": "ESQ-POR-307",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 307",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Industrial",
+    "material_principal": "Tubo",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0308",
+    "codigo": "ESQ-POR-308",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 308",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Rural",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0309",
+    "codigo": "ESQ-POR-309",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 309",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0310",
+    "codigo": "ESQ-POR-310",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 310",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0311",
+    "codigo": "ESQ-POR-311",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 311",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Residencial",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Galvanizado a Fogo",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0312",
+    "codigo": "ESQ-POR-312",
+    "nome": "Portão Artístico Esquadrias Especiais - Modelo 312",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Portão Artístico",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "portão artístico"
+    ]
+  },
+  {
+    "id": "TYP-0313",
+    "codigo": "ESQ-DIV-313",
+    "nome": "Divisória Esquadrias Especiais - Modelo 313",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Industrial",
+    "material_principal": "Metalon",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0314",
+    "codigo": "ESQ-DIV-314",
+    "nome": "Divisória Esquadrias Especiais - Modelo 314",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Comercial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Médio",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0315",
+    "codigo": "ESQ-DIV-315",
+    "nome": "Divisória Esquadrias Especiais - Modelo 315",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0316",
+    "codigo": "ESQ-DIV-316",
+    "nome": "Divisória Esquadrias Especiais - Modelo 316",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Comercial",
+    "material_principal": "Aço Galvanizado",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0317",
+    "codigo": "ESQ-DIV-317",
+    "nome": "Divisória Esquadrias Especiais - Modelo 317",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Condomínio",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0318",
+    "codigo": "ESQ-DIV-318",
+    "nome": "Divisória Esquadrias Especiais - Modelo 318",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Divisória",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "esquadrias especiais",
+      "divisória"
+    ]
+  },
+  {
+    "id": "TYP-0319",
+    "codigo": "ESQ-COB-319",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 319",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Rural",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0320",
+    "codigo": "ESQ-COB-320",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 320",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0321",
+    "codigo": "ESQ-COB-321",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 321",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Residencial",
+    "material_principal": "Tubo",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0322",
+    "codigo": "ESQ-COB-322",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 322",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Residencial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0323",
+    "codigo": "ESQ-COB-323",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 323",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Condomínio",
+    "material_principal": "Tubo",
+    "acabamento": "Pintura PU",
+    "nivel_complexidade": "Baixo",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0324",
+    "codigo": "ESQ-COB-324",
+    "nome": "Cobogó Metálico Esquadrias Especiais - Modelo 324",
+    "categoria": "Esquadrias Especiais",
+    "subcategoria": "Cobogó Metálico",
+    "aplicacao": "Comercial",
+    "material_principal": "Ferro Chato",
+    "acabamento": "Zincagem",
+    "nivel_complexidade": "Artístico",
+    "tags": [
+      "esquadrias especiais",
+      "cobogó metálico"
+    ]
+  },
+  {
+    "id": "TYP-0325",
+    "codigo": "ESP-GER-325",
+    "nome": "Especial Serralheria Modelo 325",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0326",
+    "codigo": "ESP-GER-326",
+    "nome": "Especial Serralheria Modelo 326",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0327",
+    "codigo": "ESP-GER-327",
+    "nome": "Especial Serralheria Modelo 327",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0328",
+    "codigo": "ESP-GER-328",
+    "nome": "Especial Serralheria Modelo 328",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0329",
+    "codigo": "ESP-GER-329",
+    "nome": "Especial Serralheria Modelo 329",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0330",
+    "codigo": "ESP-GER-330",
+    "nome": "Especial Serralheria Modelo 330",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0331",
+    "codigo": "ESP-GER-331",
+    "nome": "Especial Serralheria Modelo 331",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0332",
+    "codigo": "ESP-GER-332",
+    "nome": "Especial Serralheria Modelo 332",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0333",
+    "codigo": "ESP-GER-333",
+    "nome": "Especial Serralheria Modelo 333",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0334",
+    "codigo": "ESP-GER-334",
+    "nome": "Especial Serralheria Modelo 334",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0335",
+    "codigo": "ESP-GER-335",
+    "nome": "Especial Serralheria Modelo 335",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0336",
+    "codigo": "ESP-GER-336",
+    "nome": "Especial Serralheria Modelo 336",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0337",
+    "codigo": "ESP-GER-337",
+    "nome": "Especial Serralheria Modelo 337",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0338",
+    "codigo": "ESP-GER-338",
+    "nome": "Especial Serralheria Modelo 338",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0339",
+    "codigo": "ESP-GER-339",
+    "nome": "Especial Serralheria Modelo 339",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0340",
+    "codigo": "ESP-GER-340",
+    "nome": "Especial Serralheria Modelo 340",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0341",
+    "codigo": "ESP-GER-341",
+    "nome": "Especial Serralheria Modelo 341",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0342",
+    "codigo": "ESP-GER-342",
+    "nome": "Especial Serralheria Modelo 342",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0343",
+    "codigo": "ESP-GER-343",
+    "nome": "Especial Serralheria Modelo 343",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0344",
+    "codigo": "ESP-GER-344",
+    "nome": "Especial Serralheria Modelo 344",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0345",
+    "codigo": "ESP-GER-345",
+    "nome": "Especial Serralheria Modelo 345",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0346",
+    "codigo": "ESP-GER-346",
+    "nome": "Especial Serralheria Modelo 346",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0347",
+    "codigo": "ESP-GER-347",
+    "nome": "Especial Serralheria Modelo 347",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0348",
+    "codigo": "ESP-GER-348",
+    "nome": "Especial Serralheria Modelo 348",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0349",
+    "codigo": "ESP-GER-349",
+    "nome": "Especial Serralheria Modelo 349",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  },
+  {
+    "id": "TYP-0350",
+    "codigo": "ESP-GER-350",
+    "nome": "Especial Serralheria Modelo 350",
+    "categoria": "Especiais",
+    "subcategoria": "Sob Medida",
+    "aplicacao": "Personalizado",
+    "material_principal": "Aço Carbono",
+    "acabamento": "Pintura Eletrostática",
+    "nivel_complexidade": "Alto",
+    "tags": [
+      "especial"
+    ]
+  }
+]
