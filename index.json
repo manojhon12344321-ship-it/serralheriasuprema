@@ -1,0 +1,18 @@
+{
+  "projeto": "serralheria-index",
+  "versao": "1.0.0",
+  "total_tipologias": 350,
+  "total_perfis": 1500,
+  "categorias": [
+    "Portões",
+    "Grades",
+    "Portas",
+    "Janelas",
+    "Corrimãos e Guarda-Corpos",
+    "Estruturas Metálicas",
+    "Escadas",
+    "Mobiliário Metálico",
+    "Esquadrias Especiais"
+  ],
+  "gerado_em": "2026-11-05"
+}
