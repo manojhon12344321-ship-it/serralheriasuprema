@@ -1,0 +1,7 @@
+{
+  "name": "serralheria-index",
+  "version": "1.0.0",
+  "description": "Index completo serralheria 350 tipologias + 1500 perfis",
+  "type": "module",
+  "main": "src/index.js"
+}
